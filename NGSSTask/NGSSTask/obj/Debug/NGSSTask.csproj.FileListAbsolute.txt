@@ -1,0 +1,7 @@
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\bin\Debug\NGSSTask.exe.config
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\bin\Debug\NGSSTask.exe
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\bin\Debug\NGSSTask.pdb
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\obj\Debug\NGSSTask.csproj.AssemblyReference.cache
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\obj\Debug\NGSSTask.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\obj\Debug\NGSSTask.exe
+C:\Users\Tuğçe\source\repos\NGSSTask\NGSSTask\obj\Debug\NGSSTask.pdb

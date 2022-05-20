@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGSSTask", "NGSSTask\NGSSTask.csproj", "{7958CD0C-E295-4B05-9442-0301BE064877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7958CD0C-E295-4B05-9442-0301BE064877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7958CD0C-E295-4B05-9442-0301BE064877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7958CD0C-E295-4B05-9442-0301BE064877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7958CD0C-E295-4B05-9442-0301BE064877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89DFF57-AECA-40E9-BDB7-54C65C6BA4E0}
+	EndGlobalSection
+EndGlobal
