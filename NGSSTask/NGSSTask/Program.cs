@@ -29,11 +29,12 @@ namespace NGSSTask
                         kategori *= -1;
 
                     //seçilen kategori telefon değilse indirim uygulanır
-                    if (kategori != 3)
+                    if (kategori != 3 && kategori<=5)
                     {
 
                         //Her 200$ için 5$ indirim tutarının hesaplanması.
                         int dis = Convert.ToInt32(tutar / 200);
+                        tutar -= Convert.ToDouble(dis * 5);
 
                     git:
 
