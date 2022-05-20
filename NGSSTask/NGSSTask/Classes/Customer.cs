@@ -9,8 +9,9 @@ namespace NGSSTask.Classes
 {
     public class Customer : ICustomer, IDisposable
     {
+        
         private double _customer;
-
+        //2 yıldan daha kısa süredir müşteri ise
         public double Customerr
         {
             get { return _customer; }
@@ -23,7 +24,7 @@ namespace NGSSTask.Classes
         }
 
         private double _customer2;
-
+        //2 yıldan daha uzun süredir müşteri ise
         public double Customer2
         {
             get { return _customer2; }
