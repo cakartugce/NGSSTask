@@ -10,7 +10,7 @@ namespace NGSSTask.Classes
     public class Gold:IGold,IDisposable
     {
         private double _goldCard;
-
+        
         public double GoldCard
         {
             get { return _goldCard; }
